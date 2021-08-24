@@ -1,0 +1,9 @@
+[rhel-8-baseos]
+name=rhel-8-baseos
+baseurl=file:///media/rhel8dvd/BaseOS/
+enabled=1
+
+[rhel-8-appstream]
+name=rhel-8-appstream
+baseurl=file:///media/rhel8dvd/AppStream/
+enabled=1
