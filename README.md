@@ -1,1 +1,1 @@
-# RHEL 8&7 Local Repo
+# RHEL 8 & 7 Local Repo
